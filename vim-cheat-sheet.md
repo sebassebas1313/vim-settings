@@ -13,6 +13,8 @@
 - Go to beginning of the line: 0
 - Go to top of the screen: shift + h
 - Go to bottom of the screen: shift + l
+- Go to next empty line: }
+- Go to previous empty line: {
 - Forward multiple words: 5w
 - Forward multiple letters: 5l
 - Back multiple letters: 5h
