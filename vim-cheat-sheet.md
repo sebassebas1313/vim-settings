@@ -32,6 +32,7 @@
 - Paste copied line: p
 - Change multiple words: 5cw
 - Insert at the end of the line: A
+- Insert a new line in Edit Mode at the end of the line
 
 
 ### Deleting
