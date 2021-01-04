@@ -39,6 +39,7 @@
 - d^ will delete from current backward to first non-white-space character
 - d0 will delete from current backward to beginning of line
 - dw deletes current to end of current word (including trailing space)
+- daw deletes whole word in which current is
 - db deletes current to beginning of current word
 - Delete current line: dd
 - Join the line below: shift + j
